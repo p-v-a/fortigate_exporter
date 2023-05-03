@@ -3,7 +3,7 @@ module github.com/bluecmd/fortigate_exporter
 go 1.18
 
 require (
-	github.com/google/go-jsonnet v0.19.1
+	github.com/google/go-jsonnet v0.20.0
 	github.com/prometheus/client_golang v1.14.0
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
